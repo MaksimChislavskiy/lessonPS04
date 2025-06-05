@@ -6,7 +6,7 @@ import time
 
 def wikipedia_search():
     # Инициализация браузера
-    browser = webdriver.Chrome()  # ← Теперь используем понятное имя
+    browser = webdriver.Chrome()
 
     try:
         while True:
